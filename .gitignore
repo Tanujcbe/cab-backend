@@ -55,3 +55,7 @@ Thumbs.db
 # Project Specific
 src.zip
 HELP.md
+gradle/wrapper/gradle-wrapper.properties
+.gitignore
+.gitignore
+src/main/resources/application.properties
